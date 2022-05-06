@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @HizkiaReppi
+- 👀 I’m interested in Frontend Developer
+- 🌱 I’m currently learning javaScript
+- 💞️ I’m looking to collaborate on Backend Developer
+- 📫 How to reach me hizkiareppi.skom.id
